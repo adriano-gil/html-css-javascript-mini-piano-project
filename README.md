@@ -4,7 +4,7 @@ Um simulador de piano virtual feito com HTML, CSS e JavaScript, permitindo aos u
 
 ## Piano Simulator Screenshot
 
-![Piano Simulator Screenshot](./scr/assets/virtual-piano.png)
+![Piano Simulator](./src/assets/virtual-piano.png)
 
 ## Funcionalidades
 
