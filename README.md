@@ -8,7 +8,8 @@ Um simulador de piano virtual feito com HTML, CSS e JavaScript, permitindo aos u
 
 ## Funcionalidades
 
-- **Teclas Interativas**: Toque as teclas do piano clicando sobre elas ou utilizando as teclas do teclado (`a, w, s, e, d, f, t, g, y, h, u, j, k, l, ;`).
+- **Teclas Interativas**: Toque as teclas do piano clicando sobre elas ou utilizando as teclas do teclado
+- Teclas -> (`a, w, s, e, d, f, t, g, y, h, u, j, k, l, ;`).
 - **Controle de Volume**: Ajuste o volume do som utilizando o controle deslizante na interface.
 - **Mostrar/Ocultar Teclas**: Controle a visibilidade das teclas do piano com um simples clique.
 
